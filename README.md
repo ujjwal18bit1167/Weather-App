@@ -3,4 +3,4 @@ It is a weather app which uses Geolocation API to get location coordinates and u
 
 Technologies used: HTML, CSS, JavaScript, Bootstrap, NodeJs, Express, Geolocation API and OpenWeatherMap API.
 
-See project Weather App
+
